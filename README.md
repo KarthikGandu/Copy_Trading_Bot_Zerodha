@@ -14,7 +14,7 @@ This is a simple application using Streamlit and the Kite Connect API to place o
 
 ## To install the required dependencies, run:
 
-```bash
+```bash ```
 pip install streamlit kiteconnect
 
 ## Installing

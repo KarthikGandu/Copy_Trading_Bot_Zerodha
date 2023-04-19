@@ -1,0 +1,5 @@
+kiteconnect
+kite_trade
+datetime
+tkinter
+Pillow

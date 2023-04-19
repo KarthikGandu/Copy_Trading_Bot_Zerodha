@@ -25,10 +25,13 @@ If you want to run the program locally Install dependencies via
 
 ## Executing program
 
-Then once you have activated your virtual environment in the terminal
-simply write
+For Streamlit application use below command 
 
 ``` streamlit run app_streamlit.py ```
+
+For Tkinter application use below command 
+
+``` python app_tkinter.py ```
 
 A new browser window should automatically open and you should be able to see the streamlit interface.
 
